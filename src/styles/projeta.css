@@ -125,8 +125,9 @@
 
   @media (max-width: 460px) {
     .projects-rich-text h2 {
-      font-size: 35px;
-      line-height: 40px;
+        font-size: 30px;
+        line-height: 40px;
+        text-align: initial;
     }
   }
   .projects-rich-text h3 {
